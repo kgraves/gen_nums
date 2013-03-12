@@ -10,6 +10,6 @@ g++ gen_nums.cpp -lrt
 ```bash
 gen_nums num_values min_value max_value
 ```
--num_values = how many values you want to generate
--min_value  = the minimum value allowed
--max_value  = the maximum value allowed
+-    num_values = how many values you want to generate 
+-    min_value  = the minimum value allowed 
+-    max_value  = the maximum value allowed 
