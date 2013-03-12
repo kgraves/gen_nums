@@ -1,7 +1,5 @@
 # gen_nums 
-A c++ program I worte to generate some testing input for one of my classes
-
-This program will generate a variable number of random integers between the min_value and max_value inputs
+A c++ program that I wrote for one of my classes that generates a variable number of random integers, between a provided min and max value
 
 ###Compiling
 ```bash
